@@ -10,3 +10,4 @@ faiss-cpu==1.10.0
 PyMuPDF==1.23.26
 pandas==2.2.3
 requests==2.32.3
+PyPDF2
